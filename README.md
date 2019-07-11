@@ -2,6 +2,7 @@
 * Gunakan dengan bijak!!!
 * Jangan sampe salah ngegunain cok
 * Gw tidak bertanggung jawab atas penggunaan tools ini
+# Screenshot
 ![1](https://github.com/pennyw1s3/Virus-Madafaka/blob/master/Virus.png)
 # Command 
 * `pkg update && pkg upgrade`
